@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X2lj49P4tjMlsbkIu0yhBetTgCqKtLhLhdAMWOFE9vRI5TucsMZSmls83gbXKxAI2pspLjj3qB1uqtS1zN8BIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\giovanna.ramos\\source\\repos\\APIcep\\APIcep\\APIcep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giovanna.ramos\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\giovanna.ramos\\.nuget\\packages\\refit\\6.0.24\\refit.6.0.24.nupkg.sha512",
+    "C:\\Users\\giovanna.ramos\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\giovanna.ramos\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
